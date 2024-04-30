@@ -1,10 +1,11 @@
 {
- "name": "TIGER COIN",
- "website": "https://tokenpocket.pro",
- "explorer": "https://bscscan.com/token/0xaa76b28f1ba2a61a9e00c51a74869881f4776394",
+ "name": "Baby EverDoge Coin",
+ "website": "https://www.BabyEverDoge.com/",
+ "description": "BabyEverDoge want to create an innovative defi economic ecology and build a strong consensus community",
+ "explorer": "https://bscscan.com/token/0x06c4212ae2fea51a27a045d968e73f7e91ea5521",
  "type": "BEP20",
- "symbol": "TGE",
+ "symbol": "Baby EverDoge",
  "decimals": 18,
- "status": "-",
- "id": "0xaa76b28f1ba2a61a9e00c51a74869881f4776394"
-}
+ "status": "active",
+ "id": "0x06c4212Ae2fEa51a27A045D968E73F7E91eA5521"
+} 
